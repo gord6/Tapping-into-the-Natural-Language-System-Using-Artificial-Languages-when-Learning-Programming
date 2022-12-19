@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf2d827-ca8d-4bf9-bae9-7de7ad512c53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorkurs_22.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorkurs_22_tmp.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorkurs_22_tmp_2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorkurs_22_with_brocanto.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vorkurs_22_with_brocanto_transposed.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boxplot.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lineplot.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lineplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatterplot.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatterplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/violinplot.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/violinplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/violinplot_exercises.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/violinplot_pretest_posttest.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/descriptive_statistics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/descriptive_statistics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/violinplot_exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/violinplot_exercises.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/violinplot_pretest_posttest.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/violinplot_pretest_posttest.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
