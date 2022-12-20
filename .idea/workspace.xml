@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bbf2d827-ca8d-4bf9-bae9-7de7ad512c53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot_exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/violinplot_exercises.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot_pretest_posttest.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/violinplot_pretest_posttest.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Vorkurs_22.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Vorkurs_22_with_brocanto.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Vorkurs_22_with_brocanto_transposed.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/statistics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +25,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
