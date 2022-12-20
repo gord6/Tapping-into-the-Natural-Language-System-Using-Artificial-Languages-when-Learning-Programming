@@ -20,7 +20,7 @@ In this appendix, we show more details about the experiments and the results.
 | Brocanto    | 18  | m      | 6             | Git   | 18  | m      | 6             |
 | Brocanto    | 19  | m      | 8             | Git   | 20  | f      | 8             |
 | Brocanto    | 19  | m      | 3             |
-| % Treatment | 22  | f      | 2,5           |
+| Brocanto    | 22  | f      | 2,5           |
 
 
 ### Additional Data: Mean scores and standard deviation of pretest, posttest, and posttest programming task
