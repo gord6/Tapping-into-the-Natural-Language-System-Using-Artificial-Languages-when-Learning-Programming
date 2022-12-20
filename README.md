@@ -7,6 +7,13 @@ Tapping into the Natural Language System with Artificial Languages when Learning
 ## Appendix
 In this appendix, we show more details about the experiments and the results.
 
+
+| test                 | Brocanto Group | Git Group  |
+|----------------------|----------------|------------|
+| pretest              | 4.56 ± 3.05    | 5.0 ± 3.08 |
+| posttest             | 7.19 ± 0.92    | 7.3 ± 1.10 |
+| posttest programming | 7.50 ± 1.07    | 7.3 ± 1.56 |
+
 ::: {#tab_group_division}
 Group       Age   Gender   Group     Age   Gender
   ----------- ----- -------- --------- ----- --------
