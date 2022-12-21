@@ -29,6 +29,3 @@ In this appendix, we show more details about the experiments and the results.
 | pretest              | 4.56 ± 3.05    | 5.00 ± 3.08 |
 | posttest             | 7.19 ± 0.92    | 7.30 ± 1.10 |
 | posttest programming | 7.50 ± 1.07    | 7.30 ± 1.56 |
-
-
-
