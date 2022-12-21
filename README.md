@@ -11,10 +11,9 @@ In this appendix, we show more details about the experiments and the results.
 The repository is divided into the following folders: 
 
 1. material: script and tasks of the programming pre-course. questionnaire, pretest, posttest and the programming task of the posttest.
-2. raw_data: raw_data of our course.
-3. preprocessed_data: preprocessed data of our treatment. 
+2. data: data of our course.
+3. data_analysis: script to evaluate or data. 
 4. figures: plots created by our data analysis.
-5. data_analysis: script to evaluate or data. 
 
 
 ### Additional Data: Group division according to pretest (maximum: 8 points)
