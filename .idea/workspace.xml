@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf2d827-ca8d-4bf9-bae9-7de7ad512c53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_analysis/statistics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/precourse_22.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/precourse_22.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/lineplot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/lineplot.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/lineplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/lineplot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/violinplot.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/violinplot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot_exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/violinplot_exercises.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/violinplot_pretest_posttest.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/figures/violinplot_pretest_posttest.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/statistics.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
