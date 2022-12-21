@@ -7,6 +7,15 @@ Tapping into the Natural Language System with Artificial Languages when Learning
 ## Appendix
 In this appendix, we show more details about the experiments and the results.
 
+#### Structure of the repository
+
+1. material: script and tasks of the programming pre-course. pretest, posttest and the programming task of the posttest.
+2. raw_data: raw_data of our course.
+3. preprocessed_data: preprocessed data of our treatment. 
+4. figures: plots created by our data analysis.
+5. data_analysis: script to evaluate or data. 
+
+
 ### Additional Data: Group division according to pretest (maximum: 8 points)
 | Group       | Age | Gender | Pretest Score | Group | Age | Gender | Pretest Score |
 |-------------|-----|--------|---------------|-------|-----|--------|---------------|
@@ -29,3 +38,5 @@ In this appendix, we show more details about the experiments and the results.
 | pretest              | 4.56 ± 3.05    | 5.00 ± 3.08 |
 | posttest             | 7.19 ± 0.92    | 7.30 ± 1.10 |
 | posttest programming | 7.50 ± 1.07    | 7.30 ± 1.56 |
+
+# Replication
