@@ -7,7 +7,7 @@ Tapping into the Natural Language System with Artificial Languages when Learning
 ## Appendix
 In this appendix, we show more details about the experiments and the results.
 
-#### Structure of the repository
+### Structure of the repository
 The repository is divided into the following folders: 
 
 1. material: script and tasks of the programming pre-course. questionnaire, pretest, posttest and the programming task of the posttest.
