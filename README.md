@@ -42,4 +42,12 @@ The repository is divided into the following folders:
 
 # Replication
 
+If you want to replicate the experiment, you will find all the necessary materials in the materials folder. 
 
+Use the questionnaire at the beginning and the pretest afterwards. 
+
+Next/the next day you will use the Brocanto tasks or the Git tasks. For Brocanto you need the software psychopy. For the introduction to Git, GitHub Desktop was used. 
+
+This is followed by the actual programming pre-course. Its order is chronological. In our study, we did not manage to cover all the content. The last chapter was for loops. 
+
+Finally, use the posttest and posttest programming assignment to catch both reading and writing programs. If you have taught all the content of the programming course, then Rainfall would be more appropriate as a programming task. 
