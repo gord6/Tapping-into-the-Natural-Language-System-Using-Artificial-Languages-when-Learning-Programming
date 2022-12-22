@@ -1,3 +1,11 @@
-What needs to be adjusted
+# Before setting up the experiment
 
+## PsychoPy 
+
+What needs to be adjusted:
 In the trial properties, tables must be linked into the conditions from which the records are drawn. This applies to all trial properties.
+
+
+## BROCANTO Sentences
+
+For the experiment, all sentences matching our BROCANTO alignment were extracted and randomized to avoid selection bias. The first 20 sentences from each of the 3 Violation lists and 60 from the correct sentences were then selected for the experiment. Lists were then created for each trial: 15 learning blocks and 15 test blocks. Each test block contained 50% correct sentences and 50% incorrect sentences, and each violation had to be included at least 1x. In the 50% correct sentences, it was quite possible that sentences were included that had appeared in one of the previous learning blocks. We therefore marked the correct sentences as "correct_old" and "correct_new" in our lists. There was no test block in which there were only "correct_old" sentences.
