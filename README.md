@@ -45,7 +45,7 @@ If you want to replicate the experiment, you will find all the necessary materia
 
 Use the questionnaire at the beginning and the pretest afterwards. 
 
-Next/the next day you will use the Brocanto tasks or the Git tasks. For Brocanto you need the software psychopy. For the introduction to Git, GitHub Desktop was used. 
+Next/the next day you will use the Brocanto tasks or the Git tasks. For Brocanto you need the software PsychoPy. You will find an instruction in the folder material - Brocanto. For the introduction to Git, GitHub Desktop was used. 
 
 This is followed by the actual programming pre-course. Its order is chronological. In our study, we did not manage to cover all the content. The last chapter was for loops. 
 
