@@ -10,7 +10,7 @@ In this appendix, we show more details about the experiments and the results.
 ### Structure of the repository
 The repository is divided into the following folders: 
 
-1. material: script and tasks of the programming pre-course. questionnaire, pretest, posttest and the programming task of the posttest.
+1. material: script and tasks of the programming pre-course. questionnaire, pretest, posttest, the programming task of the posttest and interview transcripts.
 2. data: data of our course.
 3. data_analysis: script to evaluate or data. 
 4. figures: plots created by our data analysis.
@@ -38,6 +38,10 @@ The repository is divided into the following folders:
 | pretest              | 4.56 ± 3.05    | 5.00 ± 3.08 |
 | posttest             | 7.19 ± 0.92    | 7.30 ± 1.10 |
 | posttest programming | 7.50 ± 1.07    | 7.30 ± 1.56 |
+
+
+### Post-Programming Tasks: 
+In their first semester, students attend the course Algorithms and Programming, in which they submit 7 assignments on various programming constructs throughout the semester. Students can achieve a total of 50 points. The course instructor provided us with an overview of points that students of our study achieved. This allows us to evaluate whether learning Brocanto has a long-term effect on programming learning.
 
 # Replication
 
